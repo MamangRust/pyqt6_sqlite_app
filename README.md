@@ -17,3 +17,4 @@ Aplikasi ini adalah contoh sederhana penggunaan PyQt6 untuk berinteraksi dengan 
 
 
 ## Demo
+![Alt text](./images/image.png)
